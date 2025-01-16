@@ -3,7 +3,7 @@
 - I'm currently working on some small Projects
 
 ## My Stats
-![](https://github-readme-stats.vercel.app/api?username=moresonsunn&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=moresonsunn&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moresonsunn&hide_progress=true)
 
