@@ -1,5 +1,6 @@
 ## Hi , I'm Moresonsunn
-- Im a Python Programmer
+- I'm a Web devoloper
+- I'm currently working on some small Projects
 
 ## My Stats
 ![](https://github-readme-stats.vercel.app/api?username=moresonsunn&show_icons=true&theme=dracula)
