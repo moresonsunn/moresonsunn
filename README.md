@@ -4,10 +4,7 @@
 
 ## My Stats
 ![](https://github-readme-stats.vercel.app/api?username=moresonsunn&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moresonsunn&hide_progress=true)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=moresonsunn)
 <!--
 **moresonsunn/moresonsunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
